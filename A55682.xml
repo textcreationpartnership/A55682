@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Presbyterian Pater Noster, creed, and Ten Commandments</title>
+            <author>Ashenden, Thomas, 1648 or 9-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55682</idno>
+            <idno type="STC">Wing P3225</idno>
+            <idno type="STC">ESTC R9003</idno>
+            <idno type="EEBO-CITATION">13741673</idno>
+            <idno type="OCLC">ocm 13741673</idno>
+            <idno type="VID">101660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101660)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Presbyterian Pater Noster, creed, and Ten Commandments</title>
+                  <author>Ashenden, Thomas, 1648 or 9-1723.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tom Tell-Truth at the sign of the Old Kings Head in Axe-yard in King Street, Westminster,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An anti-Presbyterian satire.</note>
+                  <note>Written by Thomas Ashenden.  Cf. Halkett &amp; Laing.</note>
+                  <note>Publisher from colophon.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterian Church --  Humor.</term>
+               <term>Presbyterian Church --  Controversial literature.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101660:1" rendition="simple:additions"/>
+            <head>The Presbyterian PATER NOSTER, CREED, and TEN COMMANDMENTS.</head>
+            <q>—Manerit veteris veſtigia fraudis. <bibl>
+                  <hi>Virg.</hi>
+               </bibl>
+            </q>
+            <div type="part">
+               <head>
+                  <hi>The</hi> Pater Noſter.</head>
+               <p>OUr Father which art in Hell, magnify'd be thy name; thy Ar<g ref="char:EOLhyphen"/>bitrary Kingdom come, thy Tyranical will be done in <hi>England</hi> now, as it was in <hi>Forty One;</hi> Give Us in this our Day a holy occaſion of <hi>Rebellion;</hi> and forgive us our ſhew of Godlineſs for thy ſake, as we forgive others their holy Hypocriſy for our <hi>good Cauſe;</hi> and lead us not into an agreement of <hi>King</hi> and <hi>Parliament;</hi> But Deliver us from <hi>Monarchy</hi> and <hi>Hierarchy;</hi> and then thine ſhall be this Kingdom, its Power and Glory, for ever and ever, <hi>Amen,</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The CREED.</head>
+               <p>I Believe in <hi>John Calvin,</hi> the Father of our Religion, diſpoſer of <note n="*" place="margin">4 They the only Saints.</note> Heaven and <note n="*" place="margin">Dominion is founded in Gr</note> Earth; and in <hi>Owen, Baxter</hi> and <hi>Jenkins &amp;c.</hi> his dear Sons our Lords, who were Conceived by the <hi>Spi<g ref="char:EOLhyphen"/>rit of Fanaticiſm,</hi> born of <hi>Schiſm</hi> and <hi>Faction,</hi> ſuffer'd under the <hi>Act of Uniformity;</hi> were Silenced, Dead and Buried; and had deſcended into Hell, but that they aroſe again in the year of <hi>Toleration;</hi> aſcended into <hi>Tub-Pulpits,</hi> and now ſit at the right hand of the Lord <hi>S—</hi>from whence they are coming to Judge both the <hi>Church</hi> and the <hi>State.</hi> I Believe in the Holy <hi>Aſſembly of Divines,</hi> the Holy <hi>National Synod,</hi> the <hi>Se<g ref="char:EOLhyphen"/>perate Meetings,</hi> the <hi>Act of Oblivion,</hi> the <hi>Reſurrection from Dead Rites,</hi> and <hi>Toleration Everlaſting.</hi> Amen.</p>
+            </div>
+            <div type="part">
+               <head>The Ten Commandments.</head>
+               <p>
+                  <hi>THe ſame which</hi> John Presbyter <hi>hath ſpoken in</hi> 20 <hi>Chapters of his</hi> Works; <hi>ſaying,</hi> I am the Lord thy God, which brought thee out of the Land of <hi>Antichriſt,</hi> out of the Houſe of Ceremonious <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ondage.</p>
+               <p>
+                  <label>I.</label>
+               </p>
+               <p>Thou ſhalt have no other Gods but Me.</p>
+               <p>
+                  <label>II.</label>
+               </p>
+               <p>Thou ſhalt not make any Image, or likeneſs of any <hi>Saint</hi> in Heaven above, (except S. <hi>Oliver,</hi> &amp;c.) or bow down at the Adorable name of <hi>Jeſus</hi> here on Earth; nor uſe the Sign of the <hi>Croſs</hi> in the <hi>Waters of Bab<g ref="char:EOLhyphen"/>tiſm;</hi> For I the Lord thy God in my Jealouſie murder'd the Father, and will viſit his <hi>Superſtitious Iniquity</hi> upon his Children, unto the third and fourth Generation of them that hate me; but ſhew Mercy unto thou<g ref="char:EOLhyphen"/>ſands in them that love me, and keep my Damnable and Rebellious Commandments.</p>
+               <pb facs="tcp:101660:2" rendition="simple:additions"/>
+               <p>
+                  <label>III.</label>
+               </p>
+               <p>Thou ſhalt not make the <hi>Solemn League and Covenant</hi> Vain, nor ſub<g ref="char:EOLhyphen"/>ſcribe the <hi>Declaration;</hi> nor take the Oaths of <hi>Allegiance</hi> and <hi>Supremacy,</hi> unleſs (with a Jeſuitical <hi>ſalvo,)</hi> to obtain places of Honour and Power.</p>
+               <p>
+                  <label>IV.</label>
+               </p>
+               <p>Remember that thou keep holy the Remembrance of <hi>Forty One.</hi> Many years didſt thou labour, yet could'ſt not do all that thou hadſt to do; But in <hi>Forty One</hi> the Lord thy God ſent thee a Sabbath of Deliverance; Thou ſhalt therefore now remember to do all manner of work that thou didſt then, Thou, and thy Son, and thy Daughter, thy Man-ſervant, and thy Maid-ſervant, the Brutes and Proſelytes that are within thy Conventicles; For in <hi>Forty One</hi> the Lord thy God made ENGLAND and SCOTLAND Rebellious; thou ſhalt therefore Bleſs the year <hi>Forty one,</hi> and hallow it.</p>
+               <p>
+                  <label>V.</label>
+               </p>
+               <p>Honour <hi>Fanaticiſm</hi> thy Father, and <hi>Schiſm</hi> thy Mother, that thy Days may be long in the Land which the Lord thy God will once more give thee.</p>
+               <p>
+                  <label>VI.</label>
+               </p>
+               <p>Thou ſhalt do no Murder, but upon <hi>Majeſty, Epiſcopacy</hi> and <hi>Loyalty.</hi>
+               </p>
+               <p>
+                  <label>VII.</label>
+               </p>
+               <p>Thou ſhalt not commit Adultry, ſave with the <hi>Holy Siſterhood,</hi> to get Babes of Grace.</p>
+               <p>
+                  <label>VIII.</label>
+               </p>
+               <p>Thou ſhalt not ſteal, unleſs by <hi>Sequeſtration, Compoſition,</hi> or <hi>Publick Faith</hi>
+               </p>
+               <p>
+                  <label>IX.</label>
+               </p>
+               <p>Thou ſhalt not bear Falſe witneſs againſt a <hi>Brother,</hi> but may'ſt ſwal<g ref="char:EOLhyphen"/>low Perjury by a Popiſh Reſervation for the good of Holy Cauſe.</p>
+               <p>
+                  <label>X.</label>
+               </p>
+               <p>Thou ſhalt Covet nothing but <hi>Crown-Lands, Biſhops-Lands,</hi> and the Eſtates of <hi>Malignants.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <lg>
+               <l>THus is our <hi>New Religion</hi>
+               </l>
+               <l>Model'd by that of <hi>Forty One;</hi>
+               </l>
+               <l>And We muſt root up <hi>Monarchy</hi>
+               </l>
+               <l>To ſtop the growth of <hi>Popery;</hi>
+               </l>
+               <l>And undermining <hi>Church</hi> and <hi>State,</hi>
+               </l>
+               <l>
+                  <hi>Rome's</hi> Practices we'll Antedate;</l>
+               <l>The better to prevent the <hi>PLOT,</hi>
+               </l>
+               <l>Our ſelves will do what they cou'd not.</l>
+               <l>We'll cure all fear of <hi>French Invaſion,</hi>
+               </l>
+               <l>By Ruining at home the Nation.</l>
+               <l>And ſince <hi>Petitions</hi> do no good,</l>
+               <l>And all our Tricks are underſtood:</l>
+               <l>Since He who never us'd to fail,</l>
+               <l>Doth now, our little <hi>Matchiavil;</hi>
+               </l>
+               <l>We'll to the World Proclaim aloud,</l>
+               <l>The <hi>King</hi> and <hi>Duke</hi> Thirst after <hi>Bloud.</hi>
+               </l>
+               <l>
+                  <hi>Curtis, Harris, Smith</hi> and <hi>Care,</hi>
+               </l>
+               <l>Shall Thrice a Week the Kingdom ſcare,</l>
+               <l>As if the <hi>Devil, Turk,</hi> or <hi>Pope,</hi>
+               </l>
+               <l>Were juſt arrived in the <hi>Hope.</hi>
+               </l>
+               <l>We'll Authorize Men to Rebell,</l>
+               <l>By Tales from <hi>Hatfield,</hi> and from <hi>Hell;</hi>
+               </l>
+               <l>And then perſwade the ſilly Nation,</l>
+               <l>That <hi>Treaſon</hi> comes by <hi>Revelation:</hi>
+               </l>
+               <l>And that <hi>Imaginary Choſts,</hi>
+               </l>
+               <l>Are <hi>Envoys</hi> from the Lord of <hi>Hoſts.</hi>
+               </l>
+               <l>Nor will We ceaſe till We pull down,</l>
+               <l>
+                  <hi>Epiſcopacy</hi> and the <hi>Crown.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> Tom Tell-troth <hi>at the Sign of the</hi> Old Kings Head <hi>in</hi> Axe-yard <hi>in</hi> King ſtreet, Weſtminſter; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
